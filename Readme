@@ -3,3 +3,8 @@
 1. Firstly make sure you have python version of 3.9.0
 2. Make sure you have internet connection, Then you can install all the dependencies using "pip install -r requirements.txt" 
 3. Then you can start the chatbot using "streamlit run main.py" command
+4. You can switch between different responses using the following keywords as inputs
+    (i)   "/sys1" = Information only
+    (ii)  "/sys2" = Information with Sources
+    (iii) "/sys3" = Sources only
+5. You can end the conversation and move to the evaluation using the "/end" command in the user input

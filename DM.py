@@ -74,7 +74,7 @@ class DM:
             # print(result_link)
             return result_link
 
-    # System 0 = Info only, System 1 = Sources only, System 2 = Information + Sources
+    # System 1 = Info only, System 2 = Information + Sources, System 3 = Sources only
     def switch_sys(self, System_no): # To store the system number
         self.system_no = System_no
 
