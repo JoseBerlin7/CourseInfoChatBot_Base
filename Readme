@@ -1,0 +1,5 @@
+**HW Course chatbot**
+
+1. Firstly make sure you have python version of 3.9.0
+2. Make sure you have internet connection, Then you can install all the dependencies using "pip install -r requirements.txt" 
+3. Then you can start the chatbot using "streamlit run main.py" command
